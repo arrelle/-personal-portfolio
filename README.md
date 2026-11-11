@@ -44,5 +44,5 @@ personal-portfolio/
 
 ## Author
 
-* **arrelle** – [GitHub Profile](https://github.com)
+* **Arrelle** – [GitHub Profile](https://github.com)
 
